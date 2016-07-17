@@ -1,0 +1,39 @@
+{
+  "name": "meanie-multer-mime-types-filter",
+  "description": "Simple helper to create a mime types filter for Multer given an array of mime types",
+  "version": "1.0.0",
+  "homepage": "https://github.com/meanie/multer-mime-types-filter",
+  "author": {
+    "name": "Adam Buczynski",
+    "email": "me@adambuczynski.com",
+    "url": "http://adambuczynski.com/"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meanie/multer-mime-types-filter"
+  },
+  "bugs": {
+    "url": "https://github.com/meanie/multer-mime-types-filter/issues"
+  },
+  "keywords": [
+    "meanie",
+    "multer",
+    "mime type",
+    "mime types",
+    "filter"
+  ],
+  "engines": {
+    "node": ">=6.3.0",
+    "npm": ">=3.10.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "devDependencies": {
+    "eslint": "^2.13.1"
+  }
+}
