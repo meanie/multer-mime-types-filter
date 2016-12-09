@@ -4,7 +4,7 @@
 [![node dependencies](https://david-dm.org/meanie/multer-mime-types-filter.svg)](https://david-dm.org/meanie/multer-mime-types-filter)
 [![github issues](https://img.shields.io/github/issues/meanie/multer-mime-types-filter.svg)](https://github.com/meanie/multer-mime-types-filter/issues)
 [![codacy](https://img.shields.io/codacy/c0decdb116194cc9b1e7c1d53b6a8b3d.svg)](https://www.codacy.com/app/meanie/multer-mime-types-filter)
-[![Join the chat at https://gitter.im/meanie/meanie](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/meanie/meanie?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 Simple helper to create a mime types filter for Multer given an array of mime types
 
@@ -58,4 +58,4 @@ Pull requests are welcome! If you would like to contribute to Meanie, please che
 ## License
 (MIT License)
 
-Copyright 2016, [Adam Buczynski](http://adambuczynski.com)
+Copyright 2016-2017, [Adam Reis](http://adam.reis.nz)
