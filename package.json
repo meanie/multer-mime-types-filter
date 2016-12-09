@@ -1,7 +1,7 @@
 {
   "name": "meanie-multer-mime-types-filter",
   "description": "Simple helper to create a mime types filter for Multer given an array of mime types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/meanie/multer-mime-types-filter",
   "author": {
     "name": "Adam Reis",
